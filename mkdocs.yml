@@ -1,7 +1,7 @@
 site_name: Open Banking (UK) Read-Write API documentation (v3.1.10)
 
 repo_url: https://github.com/ericbroda/sample-openapidocs
-edit_uri: main
+edit_uri: main/v3.1.10
 
 nav:
   - Home: README.md
