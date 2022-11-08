@@ -1,5 +1,7 @@
 site_name: Open Banking (UK) Read-Write API documentation (v3.1.10)
 
+edit_uri: main
+
 nav:
   - Home: README.md
   - Profiles: ./profiles/README.md
