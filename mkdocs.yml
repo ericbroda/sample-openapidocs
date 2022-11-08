@@ -1,0 +1,12 @@
+site_name: Open Banking (UK) Read-Write API documentation (v3.1.10)
+
+nav:
+  - Home: README.md
+  - Profiles: ./profiles/README.md
+  - References: ./references/README.md
+  - Resources & Data Models: ./resources-and-data-models/README.md
+
+docs_dir: v3.1.10
+
+plugins:
+  - monorepo
