@@ -10,7 +10,7 @@ edit_uri: edit/main/v3.1.10
 nav:
   - Home: README.md
 
-docs_dir: .
+docs_dir: sample
 
 plugins:
   - monorepo
