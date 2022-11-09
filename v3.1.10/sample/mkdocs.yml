@@ -1,0 +1,16 @@
+site_name: Open Banking (UK) Read-Write API documentation (v3.1.10)
+
+# NOTE: the default Backstage/techdocs/mkdocs incorrectly sets the
+# edit uri.  To get the right uri we need to provide the
+# repo_url as well as the edit_uri
+# Fix: https://www.mkdocs.org/user-guide/configuration/#edit_uri
+repo_url: https://github.com/ericbroda/sample-openapidocs/sample
+edit_uri: edit/main/v3.1.10
+
+nav:
+  - Home: README.md
+
+docs_dir: v3.1.10
+
+plugins:
+  - monorepo
